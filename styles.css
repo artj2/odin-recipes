@@ -11,3 +11,7 @@ a{
 ul, ol{
     display: inline;
 }
+
+.list {
+    display: inline-block;
+}
